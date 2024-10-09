@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\NaungLinShein\\CodeTest\\OldPhonePad\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32CB821E-313D-4765-8F21-6B00FF769752}|OldPhonePad\\OldPhonePad.csproj|c:\\naunglinshein\\codetest\\oldphonepad\\oldphonepad\\oldphonepadprocess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32CB821E-313D-4765-8F21-6B00FF769752}|OldPhonePad\\OldPhonePad.csproj|solutionrelative:oldphonepad\\oldphonepadprocess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32CB821E-313D-4765-8F21-6B00FF769752}|OldPhonePad\\OldPhonePad.csproj|c:\\naunglinshein\\codetest\\oldphonepad\\oldphonepad\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32CB821E-313D-4765-8F21-6B00FF769752}|OldPhonePad\\OldPhonePad.csproj|solutionrelative:oldphonepad\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OldPhonePadProcess.cs",
+              "DocumentMoniker": "C:\\NaungLinShein\\CodeTest\\OldPhonePad\\OldPhonePad\\OldPhonePadProcess.cs",
+              "RelativeDocumentMoniker": "OldPhonePad\\OldPhonePadProcess.cs",
+              "ToolTip": "C:\\NaungLinShein\\CodeTest\\OldPhonePad\\OldPhonePad\\OldPhonePadProcess.cs",
+              "RelativeToolTip": "OldPhonePad\\OldPhonePadProcess.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAgwAoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T08:22:17.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\NaungLinShein\\CodeTest\\OldPhonePad\\OldPhonePad\\Program.cs",
+              "RelativeDocumentMoniker": "OldPhonePad\\Program.cs",
+              "ToolTip": "C:\\NaungLinShein\\CodeTest\\OldPhonePad\\OldPhonePad\\Program.cs",
+              "RelativeToolTip": "OldPhonePad\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T08:04:52.568Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
